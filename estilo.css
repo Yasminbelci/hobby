@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+    margin: auto;
+    font-family: 'Georgia';
+    color:rgb(39, 209, 115);
+    text-align: justify;
+}
+
+h1{
+    font-family:'Times New Roman';
+    color: rgb(36, 192, 49);
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    font-family:'Times New Roman';
+    color: rgb(1, 9, 17);
+    font-size: 40px;
+    text-align: center;
+}
+
+
+main{
+    background: #c18ee4;
+}
